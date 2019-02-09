@@ -1,5 +1,5 @@
 id="plugin.program.stormwizard"
-version="1.9"
+version="2.0"
 zip="https://github.com/storm2320/stormplugin/blob/master/plugins/plugin.program.stormwizard.zip"
 
 name="Storm"
