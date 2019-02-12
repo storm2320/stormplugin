@@ -1,4 +1,4 @@
-id="plugin.program.alextest"
+id="plugin.program.stormwizard"
 version="2.0"
 zip="http://storm2320.square7.ch/stormprime/plugin/plugin.program.stormwizard.zip"
 
