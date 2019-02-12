@@ -50,7 +50,7 @@ preview="https://youtu.be/hsprkJFfpns"
 adult="NO"
 description="[B][COLOR blue]Storm[/COLOR][/B][CR][COLOR white]Ein Build mit allen nÃ¶tigen Addons mehr braucht man nicht .[CR][B]TV/Radio, Film/Serie, Mediathek/Doku, Musik/Sport, Kids & XXX, BKS Live TV[/B][/COLOR]"
 
-name="Storm 17 Virus nicht laden"
+name="Storm 18 Virus nicht laden"
 version=" 1.0"
 url="https://www.dropbox.com/s/epk7067n05r6fpx/storm%20slim%20adult.zip?dl=1"
 gui="http://"
