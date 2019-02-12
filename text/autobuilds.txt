@@ -1,5 +1,5 @@
 id="plugin.program.stormwizard"
-version="2.0"
+version="2.1"
 zip="http://storm2320.square7.ch/stormprime/plugin/plugin.program.stormwizard.zip"
 
 name="Storm 17"
