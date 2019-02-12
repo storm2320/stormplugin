@@ -1,6 +1,6 @@
 id="plugin.program.alextest"
-version="2.1"
-zip="http://storm2320.square7.ch/stormprime/plugin/plugin.program.stormwizard.zip"
+version="2.0"
+zip="https://github.com/storm2320/stormplugin/blob/master/alextest/plugin.program.alextest.zip"
 
 name="Storm 17"
 version=" 1.6"
