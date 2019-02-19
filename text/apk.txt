@@ -14,15 +14,6 @@ fanart="http://storm2320.square7.ch/stormprime/Bilder/APK/Fanart.jpg"
 adult="no"
 description="----------Kodi 18 1------------------"
 
-name="[COLOR gold]Kodi v818[/COLOR]"
-section="no"
-url="https://www.dropbox.com/s/cx4oh2uwpian7f7/kodi-18.0-Leia-arm64-v8a.apk?dl=1"
-icon="http://storm2320.square7.ch/stormprime/Bilder/Wizard%20u.%20Repo/icon.png"
-fanart="http://storm2320.square7.ch/stormprime/Bilder/APK/Fanart.jpg"
-adult="no"
-description="----------Kodi 18 1------------------"
-
-
 name="[COLOR gold]vavoo Tccorexx[/COLOR]"
 section="no"
 url="https://www.dropbox.com/s/mukcg6nvdl0299j/vmod-tcorexxx.apk?dl=1"
