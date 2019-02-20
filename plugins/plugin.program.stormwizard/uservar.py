@@ -97,9 +97,9 @@ AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.stormupdate'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/storm2320/stormplugin/master/plugins/repository.stormupdate/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/storm2320/storm/master/zip/repository.stormupdate/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://raw.github.com/storm2320/stormplugin/master/plugins/repository.stormupdate/'
+REPOZIPURL     = 'https://raw.github.com/storm2320/storm/master/zip/repository.stormupdate/'
 #########################################################
 
 #########################################################
