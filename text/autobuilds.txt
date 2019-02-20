@@ -1,5 +1,5 @@
 id="plugin.program.stormwizard"
-version="2.1"
+version="2.2"
 zip="https://www.dropbox.com/sh/cc5lom140mbuhzd/AAD73BrKcESWLEkpUEMXtykka?dl=1"
 
 name="Storm 17"
