@@ -1,6 +1,6 @@
 id="plugin.program.stormwizard"
 version="2.1"
-zip="http://storm2320.square7.ch/stormprime/plugin/plugin.program.stormwizard.zip"
+zip="https://www.dropbox.com/sh/cc5lom140mbuhzd/AAD73BrKcESWLEkpUEMXtykka?dl=1"
 
 name="Storm 17"
 version=" 1.0"
