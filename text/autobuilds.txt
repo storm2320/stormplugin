@@ -1,6 +1,6 @@
 ﻿id="plugin.program.stormwizard"
 version="2.2"
-zip="https://www.dropbox.com/sh/cc5lom140mbuhzd/AAD73BrKcESWLEkpUEMXtykka?dl=1"
+zip="https://www.dropbox.com/s/c4dva7kf8hnnvo7/plugin.program.stormwizard.zip?dl=1"
 
 name="Storm 17"
 version=" 1.0"
