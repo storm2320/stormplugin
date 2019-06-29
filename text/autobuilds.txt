@@ -38,7 +38,7 @@ preview="https://youtu.be/hsprkJFfpns"
 adult="NO"
 description="[B][COLOR blue]Joe[/COLOR][/B][CR][COLOR white]FÃ¼r schwache SystemeEin Build mit allen nÃ¶tigen Addons mehr braucht man nicht .[CR][B]TV/Radio, Film/Serie, Mediathek/Doku, Musik/Sport, Kids & XXX, BKS Live TV[/B][/COLOR]"
 
-name="Storm test new 18"
+name="Storm test new alex 18"
 version=" 1.0"
 url="https://www.dropbox.com/s/mqc0q6fyu78v11u/neues%20kodi.zip?dl=1"
 gui="http://"
