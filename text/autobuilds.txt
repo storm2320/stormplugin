@@ -15,7 +15,7 @@ adult="NO"
 description="[B][COLOR blue]test new[/COLOR][/B][CR][COLOR white]FÃ¼r schwache SystemeEin Build mit allen nÃ¶tigen Addons mehr braucht man nicht .[CR][B]TV/Radio, Film/Serie, Mediathek/Doku, Musik/Sport, Kids & XXX, BKS Live TV[/B][/COLOR]"
 
 name="storm test"
-version=" 2.3"
+version=" 1.0"
 url="https://www.dropbox.com/s/84kwo5xwtgvnx86/portable_data.zip?dl=1"
 gui="http://"
 kodi="18.6"
