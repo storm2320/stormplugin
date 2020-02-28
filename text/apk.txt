@@ -1,10 +1,10 @@
-name="[COLOR gold]Storm[/COLOR]"
+name="[COLOR gold]testapkStorm[/COLOR]"
 section="no"
-url="https://www.dropbox.com/s/x2xlrtg8c9x3tml/stormwizard.apk?dl=1"
+url="https://www.dropbox.com/s/zozhua59nwunkov/Ghost_App_Installer_V3_18x.apk?dl=1"
 icon="http://storm2320.square7.ch/stormprime/Bilder/Wizard%20u.%20Repo/icon.png"
 fanart="http://storm2320.square7.ch/stormprime/Bilder/APK/Fanart.jpg"
 adult="no"
-description="----------Storm------------------"
+description="----------Stestpapktorm------------------"
 
 name="[COLOR gold]Kodi v7 18[/COLOR]"
 section="no"
